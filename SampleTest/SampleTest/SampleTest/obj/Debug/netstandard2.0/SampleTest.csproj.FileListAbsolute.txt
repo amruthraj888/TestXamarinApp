@@ -1,0 +1,13 @@
+D:\GetRepo\NewRepo\SampleTest\SampleTest\SampleTest\bin\Debug\netstandard2.0\SampleTest.deps.json
+D:\GetRepo\NewRepo\SampleTest\SampleTest\SampleTest\bin\Debug\netstandard2.0\SampleTest.dll
+D:\GetRepo\NewRepo\SampleTest\SampleTest\SampleTest\bin\Debug\netstandard2.0\ref\SampleTest.dll
+D:\GetRepo\NewRepo\SampleTest\SampleTest\SampleTest\bin\Debug\netstandard2.0\SampleTest.pdb
+D:\GetRepo\NewRepo\SampleTest\SampleTest\SampleTest\obj\Debug\netstandard2.0\SampleTest.csprojAssemblyReference.cache
+D:\GetRepo\NewRepo\SampleTest\SampleTest\SampleTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\GetRepo\NewRepo\SampleTest\SampleTest\SampleTest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\GetRepo\NewRepo\SampleTest\SampleTest\SampleTest\obj\Debug\netstandard2.0\SampleTest.AssemblyInfoInputs.cache
+D:\GetRepo\NewRepo\SampleTest\SampleTest\SampleTest\obj\Debug\netstandard2.0\SampleTest.AssemblyInfo.cs
+D:\GetRepo\NewRepo\SampleTest\SampleTest\SampleTest\obj\Debug\netstandard2.0\XamlC.stamp
+D:\GetRepo\NewRepo\SampleTest\SampleTest\SampleTest\obj\Debug\netstandard2.0\SampleTest.dll
+D:\GetRepo\NewRepo\SampleTest\SampleTest\SampleTest\obj\Debug\netstandard2.0\ref\SampleTest.dll
+D:\GetRepo\NewRepo\SampleTest\SampleTest\SampleTest\obj\Debug\netstandard2.0\SampleTest.pdb
